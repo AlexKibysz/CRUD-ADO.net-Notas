@@ -1,0 +1,11 @@
+C:\Users\Alexa\source\repos\AgendaWeb\AgendaBussiness\bin\Debug\AgendaBussiness.dll
+C:\Users\Alexa\source\repos\AgendaWeb\AgendaBussiness\bin\Debug\AgendaBussiness.pdb
+C:\Users\Alexa\source\repos\AgendaWeb\AgendaBussiness\bin\Debug\DAL.dll
+C:\Users\Alexa\source\repos\AgendaWeb\AgendaBussiness\bin\Debug\Entidades.dll
+C:\Users\Alexa\source\repos\AgendaWeb\AgendaBussiness\bin\Debug\DAL.pdb
+C:\Users\Alexa\source\repos\AgendaWeb\AgendaBussiness\bin\Debug\Entidades.pdb
+C:\Users\Alexa\source\repos\AgendaWeb\AgendaBussiness\obj\Debug\AgendaBussiness.csproj.AssemblyReference.cache
+C:\Users\Alexa\source\repos\AgendaWeb\AgendaBussiness\obj\Debug\AgendaBussiness.csproj.CoreCompileInputs.cache
+C:\Users\Alexa\source\repos\AgendaWeb\AgendaBussiness\obj\Debug\AgendaBussiness.csproj.CopyComplete
+C:\Users\Alexa\source\repos\AgendaWeb\AgendaBussiness\obj\Debug\AgendaBussiness.dll
+C:\Users\Alexa\source\repos\AgendaWeb\AgendaBussiness\obj\Debug\AgendaBussiness.pdb

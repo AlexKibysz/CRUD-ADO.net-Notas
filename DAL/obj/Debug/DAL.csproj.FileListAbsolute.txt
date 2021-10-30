@@ -1,0 +1,9 @@
+C:\Users\Alexa\source\repos\AgendaWeb\DAL\bin\Debug\DAL.dll
+C:\Users\Alexa\source\repos\AgendaWeb\DAL\bin\Debug\DAL.pdb
+C:\Users\Alexa\source\repos\AgendaWeb\DAL\bin\Debug\Entidades.dll
+C:\Users\Alexa\source\repos\AgendaWeb\DAL\bin\Debug\Entidades.pdb
+C:\Users\Alexa\source\repos\AgendaWeb\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Alexa\source\repos\AgendaWeb\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Alexa\source\repos\AgendaWeb\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Alexa\source\repos\AgendaWeb\DAL\obj\Debug\DAL.dll
+C:\Users\Alexa\source\repos\AgendaWeb\DAL\obj\Debug\DAL.pdb
